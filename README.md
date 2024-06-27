@@ -3,7 +3,7 @@
 
 *Desenvolvendo um Sistema Bancário utilizando a linguagem Python.*
 
-Foi solicitado a construção de um sistema bancário, abordando funcionalidades como: *depósito, saque e visualização de extrato*.
+Foi solicitado na primeira parte a construção de um sistema bancário, abordando funcionalidades como: *depósito, saque e visualização de extrato*. Já no segundo desafio foi solicitado a atualização do sistema bancário, para *criação e armazenamento os dados de clientes e criação e armazenamento de contas correntes*.
 # 
 
 ### 📌 Objetivo do Desafio:
