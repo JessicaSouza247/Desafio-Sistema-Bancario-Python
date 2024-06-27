@@ -5,6 +5,10 @@
 
 Foi solicitado na primeira parte a construção de um sistema bancário, abordando funcionalidades como: *depósito, saque e visualização de extrato*. Já no segundo desafio foi solicitado a atualização do sistema bancário, para *criação e armazenamento os dados de clientes e criação e armazenamento de contas correntes*.
 # 
+#### Esboso do Desafio parte 2:
+![Trilha Python - desafio](https://github.com/JessicaSouza247/Desafio-Sistema-Bancario-Python/assets/166530012/6b595beb-a5da-4f6b-8b08-a5ffb195bde9)
+
+#
 
 ### 📌 Objetivo do Desafio:
 
